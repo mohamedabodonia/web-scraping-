@@ -1,3 +1,3 @@
-- USing python i can collect data from "wuzzuf" website for specific job .
+- Using python i can collect data from "wuzzuf" website for specific job .
 - I can collect some properities for each job .
 - Save the result in a csv file .
