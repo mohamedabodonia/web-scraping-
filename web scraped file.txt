@@ -1,0 +1,26 @@
+
+Joptitle	Companyname	Joptype
+0	Senior Illustration Artist (2D)	ZINAD IT	Full Time
+1	Senior Graphic Designer	Enterprizone Co.	Full Time
+2	Senior Creative Graphic Designer	Confidential	Full Time
+3	Interior designer	AnQa Khan	Full Time
+4	Graphic Designer	Full Circle	Full Time
+5	Graphic Design Assistant	MEDIA SALES 360 LTD	Full Time
+6	Graphic Designer	Confidential	Full Time
+7	Graphic Designer	Bnaia	Full Time
+8	Graphic Designer	Ibn Sina Pharma	Full Time
+9	Senior UI/UX designer	Zeidex	Full Time
+10	Graphic Designer	Farmacia	Full Time
+11	Graphic Designer	Adam Store	Full Time
+12	Motion Graphic Designer	Media Republic	Full Time
+13	Senior Graphic designer	Nile Development	Full Time
+14	Senior Interior Designer	EGYGAB Developments	Full Time
+15	Senior Illustration Artist (2D)	ZINAD IT	Full Time
+16	Senior Graphic Designer	Enterprizone Co.	Full Time
+17	Senior Creative Graphic Designer	Confidential	Full Time
+18	Interior designer	AnQa Khan	Full Time
+19	Graphic Designer	Full Circle	Full Time
+20	Graphic Design Assistant	MEDIA SALES 360 LTD	Full Time
+21	Graphic Designer	Confidential	Full Time
+22	Graphic Designer	Bnaia	Full Time
+23
